@@ -14,5 +14,13 @@
     "nodemon": "^2.0.4"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madsthorndahl/GOP3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/madsthorndahl/GOP3/issues"
+  },
+  "homepage": "https://github.com/madsthorndahl/GOP3#readme",
   "description": ""
 }
